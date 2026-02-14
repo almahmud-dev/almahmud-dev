@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=Al%20Mahmud&fontSize=70&animation=fadeIn" width="100%" />
-</p>
-
 <div align="center">
 
 # 👋 Hello World, I'm Al Mahmud
@@ -19,7 +15,7 @@
 ---
 
 ### 💫 About Me
-I am a passionate **Frontend Developer** who loves turning complex problems into simple, beautiful, and intuitive designs. My philosophy is simple: **"Code is a craft."** I build, break, and refactor until the solution is solid.
+I am a passionate **Frontend Developer** who loves turning complex problems into simple, beautiful, and intuitive designs. My philosophy is simple: **"Code is a craft."**
 
 - 🔭 I’m currently working on advanced **React** ecosystems.
 - 🌱 I’m currently learning **Next.js** and **TypeScript**.
