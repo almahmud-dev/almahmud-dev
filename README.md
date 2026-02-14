@@ -1,67 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=150&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=Al%20Mahmud&fontSize=70&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
-  
-# 👋 Hi there, I'm Al Mahmud
-  
+
+# 👋 Hello World, I'm Al Mahmud
+### 🚀 Frontend Specialist | React Enthusiast | UI/UX Lover
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;React+%26+Next.js+Developer;Open+Source+Contributor;Solving+Problems+with+Code" alt="Typing SVG" />
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=alma-mahmud&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge&logo=github" alt="Views" />
+<img src="https://img.shields.io/github/followers/alma-mahmud?label=Followers&style=for-the-badge&color=00b4d8" alt="Followers" />
+</p>
 
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257068-1e9a348b-84d3-45d2-a040-59423d5162a0.gif" width="550" style="border-radius: 15px;" />
-
-### 🚀 Web Developer | Frontend Specialist
 </div>
 
 ---
 
-### 💫 About Me:
-I build websites with **React** and **JavaScript**. Still learning every day by making stuff, breaking it, then figuring out why it broke. I think the best code comes from working with other people and actually solving problems that matter, not just following tutorials.
+### 💫 About Me
+I am a passionate **Frontend Developer** who loves turning complex problems into simple, beautiful, and intuitive designs. My philosophy is simple: **"Code is a craft."** I don't just follow tutorials; I build, break, and refactor until the solution is solid.
+
+- 🔭 I’m currently working on advanced **React** ecosystems.
+- 🌱 I’m currently learning **Next.js** and **TypeScript** to make my code more type-safe.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **JavaScript, React, or CSS animations**.
+- ⚡ Fun fact: I believe a good UI can change a user's mood!
 
 ---
 
-### 📊 My GitHub Performance:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alma-mahmud&show_icons=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alma-mahmud&layout=compact&theme=radical&hide_border=false" width="48%" />
+### 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,redux,tailwind,bootstrap,figma,firebase,git,github,vscode,netlify,vercel" />
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
+### 📊 GitHub Analytics
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alma-mahmud&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alma-mahmud&theme=radical&border_radius=10" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alma-mahmud&layout=compact&theme=radical&border_radius=10" width="60%" />
+</p>
 
 ---
 
-### 🌐 Connect with me:
+### 📂 Featured Projects
+| Project Name | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **Portfolio Pro** | React, Tailwind | [Live Demo](https://portfolio-website-pied-kappa-72.vercel.app/) |
+| **E-Commerce UI** | Redux, Firebase | [Live Demo](#) |
+| **Task Master** | Vue.js, CSS | [Live Demo](#) |
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/alma-mahmud" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/alma-mahmud" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.facebook.com/almahmud088" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/almahmud166" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
-<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
-<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40">
+</p>
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" />
 </p>
