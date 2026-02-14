@@ -53,8 +53,8 @@ I am a passionate **Frontend Developer** who loves turning complex problems into
 | Project Name | Tech Stack | Link |
 | :--- | :--- | :--- |
 | **Portfolio Pro** | React, Tailwind | [Live Demo](https://portfolio-website-pied-kappa-72.vercel.app/) |
-| **E-Commerce UI** | Redux, Firebase | [Live Demo](#) |
-| **Task Master** | Vue.js, CSS | [Live Demo](#) |
+| **E-Commerce UI** | Redux, Firebase | [Live Demo](https://first-ecommerce-websites.vercel.app/) |
+| **Task Master** | Vue.js, CSS | [Live Demo](https://agency-landing-react.vercel.app/) |
 
 ---
 
