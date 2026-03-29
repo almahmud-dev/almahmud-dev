@@ -65,10 +65,9 @@ With a strong focus on **performance, clean architecture, and user experience**,
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almahmud-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almahmud-dev&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-five-rouge-55.vercel.app/api?username=almahmud-dev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-five-rouge-55.vercel.app/api/top-langs/?username=almahmud-dev&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
