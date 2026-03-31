@@ -39,7 +39,7 @@ With a strong focus on **performance, clean architecture, and user experience**,
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,vue,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,vite" />
 </p>
 
 ### 🎨 Styling & State
