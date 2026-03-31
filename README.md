@@ -44,7 +44,9 @@ With a strong focus on **performance, clean architecture, and user experience**,
 
 ### 🎨 Styling & State
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,zustand,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" 
+       width="48" height="48" alt="Zustand" />
 </p>
 
 ### ⚙ Tools & Deployment
