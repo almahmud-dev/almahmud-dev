@@ -230,7 +230,7 @@ const hassan: Developer = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almahmud-dev&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Hassan's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=almahmud-dev&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Mahmud's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
 
 </div>
 
@@ -270,7 +270,7 @@ const hassan: Developer = {
 
 <div align="center">
 
-### 💭 &nbsp; Today's Dev Wisdom
+### 💡 &nbsp; Developer Wisdom
 
 <br/>
 
@@ -355,7 +355,7 @@ const hassan: Developer = {
 
 **📱 Scan my Portfolio**
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://https://mahmud.swe.bd/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
 
 </td>
 <td align="center" valign="middle">
