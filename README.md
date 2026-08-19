@@ -355,7 +355,7 @@ const hassan: Developer = {
 
 **📱 Scan my Portfolio**
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://https://mahmud.swe.bd/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mahmud.swe.bd/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
 
 </td>
 <td align="center" valign="middle">
