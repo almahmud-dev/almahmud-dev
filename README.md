@@ -330,12 +330,9 @@ const hassan: Developer = {
 </a>
 &nbsp;
 <a href="mailto:mahmud.dev.bd@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://github.com/mahmud-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
 &nbsp;
 <a href="https://mahmud.swe.bd/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
