@@ -1,102 +1,366 @@
 <div align="center">
-# 👋 Hi, I'm Al Mahmud  
-### 💼 Frontend Developer | React & Next.js Specialist | UI-Focused Engineer
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Developer;Building+High-Performance+Web+Apps;Pixel-Perfect+UI+Specialist;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=alma-mahmud&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" alt="Views" />
-<img src="https://img.shields.io/github/followers/almahmud-dev?label=Followers&style=for-the-badge&color=00b4d8" alt="Followers" />
-</p>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CINEMATIC HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Al%20Mahmud&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
+
+<br/>
+
+<!-- BADGE ROW — PROFILE VIEWS + STATUS -->
+<img src="https://komarev.com/ghpvc/?username=almahmud-dev&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED-Bangladesh%20🌙-ffffff?style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+<!-- MASTER TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+production-ready+full-stack+apps;Crafting+immersive+3D+experiences+with+Three.js;React+%26+React+Native+-+web+%26+mobile%2C+covered;Node.js+backend+engineer+%7C+REST+API+architect;Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
+
+<br/>
+
+---
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+### 🧑‍💻 &nbsp; The Mind Behind the Code
+
+```typescript
+const hassan: Developer = {
+  name: "Al Mahmud",
+  title: "Full Stack Developer",
+  location: "🌍 Bangladesh — building for the world",
+  stack: {
+    frontend: ["React", "Next.js", "Gsap", "Tailwind"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["Mongobd"],
+    tools: ["Git", "GitHub", "VSCode", "Postman", "npm"],
+  },
+  currentFocus: "Scalable architecture + stunning UX",
+  openTo: ["Freelance", "Full-time", "Collaboration"],
+  philosophy: "Ship. Iterate. Grow. Repeat.",
+  funFact: "I debug in my dreams 🛠️",
+};
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED GALLERY                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎬 &nbsp; Featured Gallery — The Best of Hxni
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://hxnix-gold.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png" width="100%" />
+      </a>
+      <br/>
+      <b>The 3D Nexus</b><br/>
+      <sub>Immersive Three.js Portfolio Experience</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Hxni-Ecommerce-Store" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/screenshot_home.png" width="100%" />
+      </a>
+      <br/>
+      <b>Editorial Excellence</b><br/>
+      <sub>Full-Stack Boutique E-commerce Platform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/E-store2" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/E-store2/main/docs/ui-preview.png" width="100%" />
+      </a>
+      <br/>
+      <b>Bespoke E-store 2.0</b><br/>
+      <sub>Luxury Minimalist Mobile Commerce</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Ticket-Booking-App/main/mobile/assets/promo1.png" width="100%" />
+      </a>
+      <br/>
+      <b>TicketVerse</b><br/>
+      <sub>Premium Full-Stack Event Booking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Nixh-A-social-Media-App/main/docs/assets/mobile_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>NIXH Social</b><br/>
+      <sub>Enterprise Multi-User Directory & Social Engine</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_express_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>hxni Express</b><br/>
+      <sub>Cinematic Parallax Food Delivery Experience</sub>
+    </td>
+  </tr>
+  
+</table>
+
 </div>
 
 ---
 
-## 💼 Professional Summary
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-I help businesses and startups build **modern, scalable, and high-converting web applications** using React and Next.js.
+<div align="center">
 
-With a strong focus on **performance, clean architecture, and user experience**, I transform ideas into fast, responsive, and visually polished digital products.
+### 🛠️ &nbsp; Tech Arsenal
 
-> My goal is simple: Deliver solutions that not only look great — but drive real business results.
+<br/>
 
----
+<table>
+<tr>
+<td align="center" width="50%">
 
-## 🚀 What I Offer
+**⚡ Frontend & 3D**
 
-- ✔ Pixel-perfect responsive UI
-- ✔ High-performance React & Next.js apps
-- ✔ Clean & scalable code architecture
-- ✔ SEO-friendly frontend structure
-- ✔ Smooth animations & modern interactions
-- ✔ Business-focused development approach
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,threejs&theme=dark&perline=7" />
 
----
+</td>
+<td align="center" width="50%">
 
-## 🛠 Tech Stack
+**🔧 Backend & Data**
 
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,firebase&theme=dark&perline=7" />
 
-### 🎨 Styling & State
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,figma" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="48" />
-</p>
+</td>
+</tr>
+<tr>
 
-### ⚙ Tools & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,vercel,netlify" />
-</p>
+<td align="center">
 
----
+**🧰 Tools & DevOps**
 
-## 📂 Featured Projects
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel&theme=dark&perline=7" />
 
-| Project | Description | Live |
-|----------|-------------|------|
-| **Portfolio Pro** | Animated modern portfolio | [Live Demo](https://mahmud.swe.bd) |
-| **E-Commerce UI** | Scalable e-commerce frontend | [Live Demo](https://uomo-uim.vercel.app/) |
-| **Task Master** | Clean productivity dashboard | [Live Demo](https://bazar-dor-taupe.vercel.app/) |
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CURRENTLY BUILDING                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-readme-stats-five-rouge-55.vercel.app/api?username=almahmud-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-five-rouge-55.vercel.app/api/top-langs/?username=almahmud-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=almahmud-dev&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### 🚀 &nbsp; What I'm Up To
 
-
-## 🤝 Why Work With Me?
-
-- Clear and professional communication  
-- Deadline-oriented delivery  
-- Detail-focused development  
-- Long-term collaboration mindset  
-- Client satisfaction is priority  
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/al-mahmud-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/almahmud-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:mahmud.dev.bd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/almahmud166"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+<table>
+<tr>
+<td>🚀 <b>Building</b></td>
+<td>Modern, scalable web experiences with Next.js, React & TypeScript</td>
+</tr>
+<tr>
+<td>🧪 <b>Exploring</b></td>
+<td>GSAP motion, advanced TypeScript patterns & frontend performance</td>
+</tr>
+<tr>
+<td>💬 <b>Let's Talk About</b></td>
+<td>Frontend architecture, REST APIs, UI engineering & interactive experiences</td>
+</tr>
+<tr>
+<td>✨ <b>My Approach</b></td>
+<td>Design with intention. Build with precision. Optimize for the real world.</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>🚀 Available for Freelance & Remote Opportunities</b>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATISTICS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📊 &nbsp; GitHub Intelligence
+
+<br/>
+
+<img src="https://github-readme-stats-five-rouge-55.vercel.app/api?username=almahmud-dev&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-five-rouge-55.vercel.app/api/top-langs/?username=almahmud-dev&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=almahmud-dev&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📈 &nbsp; Contribution Timeline
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=almahmud-dev&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Hassan's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               SNAKE CONTRIBUTION ANIMATION                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 &nbsp; Contributions Going Serpentine
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  DEV QUOTE                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💭 &nbsp; Today's Dev Wisdom
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ACHIEVEMENTS                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🏆 &nbsp; GitHub Achievements
+
+<br/>
+
+
+<br/><br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" /><br/>
+      <b>Pair Extraordinaire</b><br/>
+      <sub>Co-authored commits</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" /><br/>
+      <b>Pull Shark</b><br/>
+      <sub>Merged pull requests</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" /><br/>
+      <b>YOLO</b><br/>
+      <sub>Merged without review</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" /><br/>
+      <b>Starstruck</b><br/>
+      <sub>Repo with 16+ stars</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="mailto:mahmud.dev.bd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/mahmud-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://mahmud.swe.bd/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<!-- QR + FOOTER SPLIT -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="180">
+
+**📱 Scan my Portfolio**
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+
+</div>
