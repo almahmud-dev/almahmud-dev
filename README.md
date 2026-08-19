@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- MASTER TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+production-ready+full-stack+apps;Crafting+immersive+3D+experiences+with+Three.js;React+%26+React+Native+-+web+%26+mobile%2C+covered;Node.js+backend+engineer+%7C+REST+API+architect;Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+production-ready+full-stack+website;Crafting+immersive+3D+experiences+with+Gsap;React+%26+React+Native+-+web+%26+mobile%2C+covered;Node.js+backend+engineer+%7C+REST+API+architect;Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
 
 <br/>
 
@@ -60,7 +60,7 @@ const hassan: Developer = {
 <!--                    FEATURED GALLERY                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🎬 &nbsp; Featured Gallery — The Best of Hxni
 
@@ -124,7 +124,7 @@ const hassan: Developer = {
   
 </table>
 
-</div>
+</div> -->
 
 ---
 
