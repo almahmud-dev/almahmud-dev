@@ -290,7 +290,6 @@ const hassan: Developer = {
 
 <br/>
 
-
 <br/><br/>
 
 <table border="0">
@@ -329,7 +328,7 @@ const hassan: Developer = {
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="mailto:mahmud.dev.bd@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmud.dev.bd@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
 </a>
 &nbsp;
