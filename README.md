@@ -310,11 +310,6 @@ const hassan: Developer = {
       <b>YOLO</b><br/>
       <sub>Merged without review</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" /><br/>
-      <b>Starstruck</b><br/>
-      <sub>Repo with 16+ stars</sub>
-    </td>
   </tr>
 </table>
 
@@ -330,7 +325,7 @@ const hassan: Developer = {
 
 <br/>
 
-<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
+<a href="https://www.linkedin.com/in/al-mahmud-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
