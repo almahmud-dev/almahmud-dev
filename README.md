@@ -35,19 +35,24 @@
 ### 🧑‍💻 &nbsp; The Mind Behind the Code
 
 ```typescript
-const hassan: Developer = {
+const Mahmud: Developer = {
   name: "Al Mahmud",
   title: "Full Stack Developer",
   location: "🌍 Bangladesh — building for the world",
+
   stack: {
-    frontend: ["React", "Next.js", "Gsap", "Tailwind"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP"],
     backend: ["Node.js", "Express.js", "REST APIs"],
-    database: ["Mongobd"],
-    tools: ["Git", "GitHub", "VSCode", "Postman", "npm"],
+    database: ["MongoDB", "Supabase", "SQL"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "npm"],
   },
-  currentFocus: "Scalable architecture + stunning UX",
+
+  currentFocus: "Scalable architecture + high-performance UX",
+
   openTo: ["Freelance", "Full-time", "Collaboration"],
+
   philosophy: "Ship. Iterate. Grow. Repeat.",
+
   funFact: "I debug in my dreams 🛠️",
 };
 ```
