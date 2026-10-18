@@ -61,75 +61,78 @@ const Mahmud: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED GALLERY                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+              FEATURED GALLERY
+═══════════════════════════════════════════════════════════ -->
 
-<!-- <div align="center">
+<div align="center">
 
-### 🎬 &nbsp; Featured Gallery — The Best of Hxni
+### 🎬 &nbsp; Featured Gallery — The Best of Mahmud
 
 <br/>
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://hxnix-gold.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png" width="100%" />
+      <a href="https://bitox-business-consulting-website.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/almahmud-dev/bitox-business-consulting-website/main/bitox.png" width="100%" />
       </a>
       <br/>
-      <b>The 3D Nexus</b><br/>
-      <sub>Immersive Three.js Portfolio Experience</sub>
+      <b>Bitox Business Consulting</b><br/>
+       <sub>Modern Business Website & Digital Experience</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Hxni-Ecommerce-Store" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/screenshot_home.png" width="100%" />
-      </a>
-      <br/>
-      <b>Editorial Excellence</b><br/>
-      <sub>Full-Stack Boutique E-commerce Platform</sub>
-    </td>
+   
+  <td align="center" width="50%">
+    <a href="https://uomo-uim.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/almahmud-dev/uomo-uim/main/uomo.png"
+        width="100%"
+        alt="UOMO E-commerce Website Preview"
+      />
+    </a>
+    <br/>
+    <b>UOMO — Editorial Excellence</b><br/>
+    <sub>Modern Boutique E-commerce Experience</sub>
+  </td>
+
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/E-store2" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/E-store2/main/docs/ui-preview.png" width="100%" />
-      </a>
-      <br/>
-      <b>Bespoke E-store 2.0</b><br/>
-      <sub>Luxury Minimalist Mobile Commerce</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Ticket-Booking-App/main/mobile/assets/promo1.png" width="100%" />
-      </a>
-      <br/>
-      <b>TicketVerse</b><br/>
-      <sub>Premium Full-Stack Event Booking</sub>
-    </td>
+    
+  <td align="center" width="50%">
+    <a href="https://edufilo.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/almahmud-dev/edufilo/main/edufilos.png"
+        width="100%"
+        alt="EduFilo Madrasa Management SaaS Platform Preview"
+      />
+    </a>
+    <br/>
+    <b>EduFilo — Madrasa Management</b><br/>
+    <sub>A Smart SaaS Platform for Islamic Education</sub>
+  </td>
+
+     
+  
+  <td align="center" width="50%">
+    <a href="https://qeducato.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/almahmud-dev/qeducato-platform/main/qeducato.png"
+        width="100%"
+        alt="Qeducato University Website"
+      />
+    </a>
+    <br/>
+    <b>Qeducato — University Platform</b><br/>
+    <sub>Modern University Website & Student Experience</sub>
+  </td>
+
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Nixh-A-social-Media-App/main/docs/assets/mobile_mockup.png" width="100%" />
-      </a>
-      <br/>
-      <b>NIXH Social</b><br/>
-      <sub>Enterprise Multi-User Directory & Social Engine</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_express_mockup.png" width="100%" />
-      </a>
-      <br/>
-      <b>hxni Express</b><br/>
-      <sub>Cinematic Parallax Food Delivery Experience</sub>
-    </td>
   </tr>
   
 </table>
 
-</div> -->
+</div>
 
 ---
 
@@ -137,78 +140,49 @@ const Mahmud: Developer = {
 <!--                    TECH ARSENAL                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+<h3 align="center">🛠️ &nbsp;Tech Stack</h3>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=2&section=header" width="60%" />
-
-<br/><br/>
-
-### 🗝️ &nbsp; The Complete MERN Toolkit
-
-<sub><i>Tools I use to design, build & ship production-grade products</i></sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-
-**🎨 &nbsp;Frontend & UI**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend" />
-
-</td>
-<td align="center" width="50%" valign="top">
-
-**⚙️ &nbsp;Backend & Database**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark&perline=8" alt="Backend" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-**🔄 &nbsp;State & Data Fetching**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" />
-<br/><br/>
-<img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=d4af37" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=d4af37" alt="Context API" />
-
-</td>
-<td align="center" valign="top">
-
-**🔐 &nbsp;Auth & Real-Time**
-<br/><br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=d4af37" alt="JWT" />
-<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=d4af37" alt="Socket.io" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-**🧪 &nbsp;Testing & API Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=8" alt="Testing" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=d4af37" alt="Insomnia" />
-
-</td>
-<td align="center" valign="top">
-
-**☁️ &nbsp;Deployment & CI/CD**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=vercel,githubactions&theme=dark&perline=8" alt="Deployment" />
-
-</td>
-</tr>
-</table>
+**Frontend & UI**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,threejs,figma&theme=dark&perline=10" alt="Frontend" />
+<br/>
+<img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=39d353" alt="GSAP" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=2&section=footer" width="60%" />
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,redis&theme=dark&perline=10" alt="Backend" />
+
+<br/>
+
+**State & Data Fetching**
+<br/>
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" />
+<img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=39d353" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=39d353" alt="Context API" />
+
+<br/>
+
+**Auth & Real-Time**
+<br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=39d353" alt="JWT" />
+<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=39d353" alt="Socket.io" />
+
+<br/>
+
+**Testing & API Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=10" alt="Testing" />
+<img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=39d353" alt="Insomnia" />
+
+<br/>
+
+**Deployment & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,githubactions,git,github,vscode,npm&theme=dark&perline=10" alt="Deployment & Workflow" />
 
 </div>
 
@@ -308,58 +282,6 @@ const Mahmud: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  DEV QUOTE                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💡 &nbsp; Developer Wisdom
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ACHIEVEMENTS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🏆 &nbsp; GitHub Achievements
-
-<br/>
-
-<br/><br/>
-
-<table border="0">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" /><br/>
-      <b>Pair Extraordinaire</b><br/>
-      <sub>Co-authored commits</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" /><br/>
-      <b>Pull Shark</b><br/>
-      <sub>Merged pull requests</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" /><br/>
-      <b>YOLO</b><br/>
-      <sub>Merged without review</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CONNECT SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -403,8 +325,5 @@ const Mahmud: Developer = {
 <br/>
 
 ---
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
 
 </div>
