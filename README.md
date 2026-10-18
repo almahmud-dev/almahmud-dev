@@ -139,38 +139,76 @@ const Mahmud: Developer = {
 
 <div align="center">
 
-### 🛠️ &nbsp; Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=2&section=header" width="60%" />
 
-<br/>
+<br/><br/>
+
+### 🗝️ &nbsp; The Complete MERN Toolkit
+
+<sub><i>Tools I use to design, build & ship production-grade products</i></sub>
+
+<br/><br/>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-**⚡ Frontend & 3D**
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,threejs&theme=dark&perline=7" />
+**🎨 &nbsp;Frontend & UI**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-**🔧 Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,firebase&theme=dark&perline=7" />
+**⚙️ &nbsp;Backend & Database**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark&perline=8" alt="Backend" />
 
 </td>
 </tr>
 <tr>
+<td align="center" valign="top">
 
-<td align="center">
+**🔄 &nbsp;State & Data Fetching**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=d4af37" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=d4af37" alt="Context API" />
 
-**🧰 Tools & DevOps**
+</td>
+<td align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel&theme=dark&perline=7" />
+**🔐 &nbsp;Auth & Real-Time**
+<br/><br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=d4af37" alt="JWT" />
+<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=d4af37" alt="Socket.io" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+**🧪 &nbsp;Testing & API Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=8" alt="Testing" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=d4af37" alt="Insomnia" />
+
+</td>
+<td align="center" valign="top">
+
+**☁️ &nbsp;Deployment & CI/CD**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vercel,githubactions&theme=dark&perline=8" alt="Deployment" />
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=2&section=footer" width="60%" />
 
 </div>
 
@@ -229,7 +267,7 @@ const Mahmud: Developer = {
 <!--               CONTRIBUTION GRAPH                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 ### 📈 &nbsp; Contribution Timeline
 
@@ -237,7 +275,7 @@ const Mahmud: Developer = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=almahmud-dev&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Mahmud's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
 
-</div>
+</div> -->
 
 ---
 
