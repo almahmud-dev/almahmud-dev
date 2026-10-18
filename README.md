@@ -22,7 +22,7 @@
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -59,11 +59,11 @@ const Mahmud: Developer = {
 
 <br clear="right"/>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════════════════════════════════════════
-              FEATURED GALLERY
-═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED GALLERY                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -74,67 +74,45 @@ const Mahmud: Developer = {
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://bitox-business-consulting-website.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/almahmud-dev/bitox-business-consulting-website/main/bitox.png" width="100%" />
+      <a href="https://bitox-business-consulting-website.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/almahmud-dev/bitox-business-consulting-website/main/bitox.png" width="100%" alt="Bitox Business Consulting Website Preview" />
       </a>
       <br/>
       <b>Bitox Business Consulting</b><br/>
-       <sub>Modern Business Website & Digital Experience</sub>
+      <sub>Modern Business Website & Digital Experience</sub>
     </td>
-   
-  <td align="center" width="50%">
-    <a href="https://uomo-uim.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/almahmud-dev/uomo-uim/main/uomo.png"
-        width="100%"
-        alt="UOMO E-commerce Website Preview"
-      />
-    </a>
-    <br/>
-    <b>UOMO — Editorial Excellence</b><br/>
-    <sub>Modern Boutique E-commerce Experience</sub>
-  </td>
-
+    <td align="center" width="50%">
+      <a href="https://uomo-uim.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/almahmud-dev/uomo-uim/main/uomo.png" width="100%" alt="UOMO E-commerce Website Preview" />
+      </a>
+      <br/>
+      <b>UOMO — Editorial Excellence</b><br/>
+      <sub>Modern Boutique E-commerce Experience</sub>
+    </td>
   </tr>
   <tr>
-    
-  <td align="center" width="50%">
-    <a href="https://edufilo.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/almahmud-dev/edufilo/main/edufilos.png"
-        width="100%"
-        alt="EduFilo Madrasa Management SaaS Platform Preview"
-      />
-    </a>
-    <br/>
-    <b>EduFilo — Madrasa Management</b><br/>
-    <sub>A Smart SaaS Platform for Islamic Education</sub>
-  </td>
-
-     
-  
-  <td align="center" width="50%">
-    <a href="https://qeducato.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/almahmud-dev/qeducato-platform/main/qeducato.png"
-        width="100%"
-        alt="Qeducato University Website"
-      />
-    </a>
-    <br/>
-    <b>Qeducato — University Platform</b><br/>
-    <sub>Modern University Website & Student Experience</sub>
-  </td>
-
+    <td align="center" width="50%">
+      <a href="https://edufilo.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/almahmud-dev/edufilo/main/edufilos.png" width="100%" alt="EduFilo Madrasa Management SaaS Platform Preview" />
+      </a>
+      <br/>
+      <b>EduFilo — Madrasa Management</b><br/>
+      <sub>A Smart SaaS Platform for Islamic Education</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://qeducato.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/almahmud-dev/qeducato-platform/main/qeducato.png" width="100%" alt="Qeducato University Website Preview" />
+      </a>
+      <br/>
+      <b>Qeducato — University Platform</b><br/>
+      <sub>Modern University Website & Student Experience</sub>
+    </td>
   </tr>
-  <tr>
-  </tr>
-  
 </table>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH ARSENAL                           -->
@@ -147,38 +125,33 @@ const Mahmud: Developer = {
 **Frontend & UI**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,threejs,figma&theme=dark&perline=10" alt="Frontend" />
-<br/>
-<img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=39d353" alt="GSAP" />
-
-<br/>
+<img src="https://cdn.simpleicons.org/gsap/0AE448" width="44" height="44" alt="GSAP" title="GSAP" />
 
 **Backend & Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,redis&theme=dark&perline=10" alt="Backend" />
-
-<br/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/cloudinary/4C6FFF" width="44" height="44" alt="Cloudinary" title="Cloudinary" />
 
 **State & Data Fetching**
 <br/>
 <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" />
-<img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=39d353" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=39d353" alt="Context API" />
-
-<br/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="44" height="44" alt="TanStack Query" title="TanStack Query" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="44" height="44" alt="Context API" title="React Context API" />
 
 **Auth & Real-Time**
 <br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=39d353" alt="JWT" />
-<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=39d353" alt="Socket.io" />
-
-<br/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens/FB015B" width="44" height="44" alt="JWT" title="JWT" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/9CA3AF" width="44" height="44" alt="Socket.io" title="Socket.io" />
 
 **Testing & API Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=jest,postman&theme=dark&perline=10" alt="Testing" />
-<img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=39d353" alt="Insomnia" />
-
-<br/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/insomnia/8B6CFF" width="44" height="44" alt="Insomnia" title="Insomnia" />
 
 **Deployment & Workflow**
 <br/>
@@ -186,34 +159,25 @@ const Mahmud: Developer = {
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               CURRENTLY BUILDING                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🚀 &nbsp; What I'm Up To
+<h3 align="center">🚀 &nbsp;What I'm Up To</h3>
 
-<table>
-<tr>
-<td>🚀 <b>Building</b></td>
-<td>Modern, scalable web experiences with Next.js, React & TypeScript</td>
-</tr>
-<tr>
-<td>🧪 <b>Exploring</b></td>
-<td>GSAP motion, advanced TypeScript patterns & frontend performance</td>
-</tr>
-<tr>
-<td>💬 <b>Let's Talk About</b></td>
-<td>Frontend architecture, REST APIs, UI engineering & interactive experiences</td>
-</tr>
-<tr>
-<td>✨ <b>My Approach</b></td>
-<td>Design with intention. Build with precision. Optimize for the real world.</td>
-</tr>
-</table>
+<div align="center">
 
----
+🔨 **Building** — SaaS platforms & dashboards with Next.js, React & TypeScript
+<br/>
+🧪 **Exploring** — GSAP motion, advanced TypeScript patterns & frontend performance
+<br/>
+💬 **Ask me about** — Frontend architecture, REST APIs & interactive UI
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATISTICS                       -->
@@ -225,33 +189,17 @@ const Mahmud: Developer = {
 
 <br/>
 
-<img src="https://github-readme-stats-five-rouge-55.vercel.app/api?username=almahmud-dev&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
+<img src="https://github-readme-stats-five-rouge-55.vercel.app/api?username=almahmud-dev&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" alt="GitHub stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-five-rouge-55.vercel.app/api/top-langs/?username=almahmud-dev&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" />
+<img src="https://github-readme-stats-five-rouge-55.vercel.app/api/top-langs/?username=almahmud-dev&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=almahmud-dev&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
+<img src="https://streak-stats.demolab.com?user=almahmud-dev&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" alt="GitHub streak" />
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!-- <div align="center">
-
-### 📈 &nbsp; Contribution Timeline
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almahmud-dev&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Mahmud's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
-
-</div> -->
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               SNAKE CONTRIBUTION ANIMATION                -->
@@ -279,7 +227,7 @@ const Mahmud: Developer = {
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CONNECT SECTION                        -->
@@ -290,16 +238,15 @@ const Mahmud: Developer = {
 <br/>
 
 <a href="https://www.linkedin.com/in/al-mahmud-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmud.dev.bd@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
 </a>
 &nbsp;
-&nbsp;
 <a href="https://mahmud.swe.bd/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -323,7 +270,5 @@ const Mahmud: Developer = {
 </table>
 
 <br/>
-
----
 
 </div>
